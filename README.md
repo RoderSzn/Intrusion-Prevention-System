@@ -126,7 +126,7 @@ MIT License - feel free to use this project!
 Contributions, issues, and feature requests are welcome!
 
 
-Project Link: [https://github.com/YOUR-USERNAME/intrusion-prevention-system](https://github.com/YOUR-USERNAME/intrusion-prevention-system)
+Project Link: [https://github.com/RoderSzn/Intrusion-Prevention-System](https://github.com/RoderSzn/Intrusion-Prevention-System)
 
 ## 🙏 Acknowledgments
 
